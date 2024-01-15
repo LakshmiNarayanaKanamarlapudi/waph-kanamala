@@ -59,4 +59,4 @@ This is a private repository for Kanamarlapudi Lakshmi Narayana to store all cod
 - Then select SSh and GPG keys and add the new ssh key by pasting the key copied from vm.
 - Now we need to clone our repository into our VM using the following command "git clone git@github.com:LakshmiNarayanaKanamarlapudi/waph-kanamala.git".
 - Finally i have used the template in the course repository and edit the readme file in my repository.
-![Changes from VM to repository!](/home/administrator/Pictures/Screenshots/change.png "Changes to VM")
+[Changes from VM to repository!](/home/administrator/Pictures/Screenshots/change.png "Changes to VM")

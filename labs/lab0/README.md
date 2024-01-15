@@ -45,7 +45,7 @@ This is a private repository for Kanamarlapudi Lakshmi Narayana to store all cod
 
 **Part 2** Git Repositories and Exercises
 - The course repository
-![Course Repository](/home/administrator/waph-kanamala/Images/s2.png)
+![Course Repository](Images/s2.png)
 - Private Repository
 - One done with creating a github account.
 - Create a private repository with the following naming convention is waph-uc(6+2).

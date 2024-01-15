@@ -28,7 +28,8 @@ This is a private repository for Kanamarlapudi Lakshmi Narayana to store all cod
 
 ### Lab 0
 
-**Part 1** Ubuntu Virtual Machine & Software Installation
+**Part 1** Ubuntu Virtual Machine & Software Installation <br>
+
 - Open the sandbox enviroment using the specified link.
 - Then login using the university credential.
 - After that look the web app programming and hacking in the catalog
@@ -43,9 +44,12 @@ This is a private repository for Kanamarlapudi Lakshmi Narayana to store all cod
 - Now intsall the apache webserver, Git and sublime text using the following commands "sudo apt install apache2", "sudo apt install git", "suso snap install sublime-text --classic".
 ![Apache Web Server Testing](Images/s1.png)
 
-**Part 2** Git Repositories and Exercises
+**Part 2** Git Repositories and Exercises <br>
+
 - The course repository
+
 ![Course Repository](Images/s2.png)
+
 - Private Repository
 - One done with creating a github account.
 - Create a private repository with the following naming convention is waph-uc(6+2).
@@ -59,5 +63,7 @@ This is a private repository for Kanamarlapudi Lakshmi Narayana to store all cod
 - Then select SSh and GPG keys and add the new ssh key by pasting the key copied from vm.
 - Now we need to clone our repository into our VM using the following command "git clone git@github.com:LakshmiNarayanaKanamarlapudi/waph-kanamala.git".
 - Finally i have used the template in the course repository and edit the readme file in my repository.
-**Screenshot of Changes from VM to Repository**
+
+**Screenshot of Changes from VM to Repository** <br>
+
 ![Changes from VM to repository!](Images/change.png)

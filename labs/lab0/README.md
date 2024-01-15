@@ -11,7 +11,7 @@
 
 **Short-bio**: I am having interest towards data science and web development. 
 
-![Phu's headshot](images/headshot.jpg)
+![Phu's headshot](Images/photo.jpg)
 
 ## Repository Information
 
@@ -41,7 +41,7 @@ This is a private repository for Kanamarlapudi Lakshmi Narayana to store all cod
 - Now open the terminal and install the net tools using the following command "sudo apt install net-tools".
 - Then get the ip address of the machine using "ifconfig" command.
 - Now intsall the apache webserver, Git and sublime text using the following commands "sudo apt install apache2", "sudo apt install git", "suso snap install sublime-text --classic".
-![Apache Web Server Testing](/home/administrator/waph-kanamala/Images/s1.png)
+![Apache Web Server Testing](Images/s1.png)
 
 **Part 2** Git Repositories and Exercises
 - The course repository
@@ -59,4 +59,4 @@ This is a private repository for Kanamarlapudi Lakshmi Narayana to store all cod
 - Then select SSh and GPG keys and add the new ssh key by pasting the key copied from vm.
 - Now we need to clone our repository into our VM using the following command "git clone git@github.com:LakshmiNarayanaKanamarlapudi/waph-kanamala.git".
 - Finally i have used the template in the course repository and edit the readme file in my repository.
-![Changes from VM to repository!](/home/administrator/waph-kanamala/Images/change.png)
+![Changes from VM to repository!](Images/change.png)

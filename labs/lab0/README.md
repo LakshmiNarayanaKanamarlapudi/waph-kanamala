@@ -11,7 +11,7 @@
 
 **Short-bio**: I am having interest towards data science and web development. 
 
-![Phu's headshot](Images/photo.jpg)
+![Lakhmi Narayana headshot](Images/photo.jpg)
 
 ## Repository Information
 
@@ -42,6 +42,9 @@ This is a private repository for Kanamarlapudi Lakshmi Narayana to store all cod
 - Now open the terminal and install the net tools using the following command "sudo apt install net-tools".
 - Then get the ip address of the machine using "ifconfig" command.
 - Now intsall the apache webserver, Git and sublime text using the following commands "sudo apt install apache2", "sudo apt install git", "suso snap install sublime-text --classic".
+
+<br>
+
 ![Apache Web Server Testing](Images/s1.png)
 
 **Part 2** Git Repositories and Exercises <br>

@@ -75,8 +75,16 @@
 				}
 		function jQueryAjax() {
 				var input = $("#data").val();
-				if (input.length == 0) return;
-				$.get("echo1.php?data="+input,
+				if (!input){
+					alert("Please enter some data"); 
+					return;
+				}
+
+				if(input.length > 50){
+					alert("Data too long, must be less than 50 characters");
+					return;
+				}
+				$.get("echo.php?data="+input,
 					function(result) {
 						$("#response").html("Response from server:" + result);
 					}
@@ -85,8 +93,16 @@
 			}
 		function jQueryAjaxPost() {
 				var input = $("#data").val();
-				if (input.length == 0) return;
-				$.post("echo1.php", {data: input},
+				if (!input){
+					alert("Please enter some data"); 
+					return;
+				}
+
+				if(input.length > 50){
+					alert("Data too long, must be less than 50 characters");
+					return;
+				}
+				$.post("echo.php", {data: input},
 					function(result) {
 						$("#response").html("Response from server:" + result);
 					}

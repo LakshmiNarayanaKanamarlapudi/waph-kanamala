@@ -22,7 +22,7 @@ This is a private repository for Kanamarlapudi Lakshmi Narayana to store all cod
 
 [Hackathon Repository](Hackathons) 
 
-  - [https://github.com/LakshmiNarayanaKanamarlapudi/waph-kanamala/tree/main/](https://github.com/LakshmiNarayanaKanamarlapudi/waph-kanamala/tree/main/): Hackathon 1
+  - [https://github.com/LakshmiNarayanaKanamarlapudi/waph-kanamala/tree/main/hackathons/hackathon1](https://github.com/LakshmiNarayanaKanamarlapudi/waph-kanamala/tree/main/hackathons/hackathon1): Hackathon 1
 
 ## Hackathon Overview
 - This hackathon was all about the attacks, validation and encoding.

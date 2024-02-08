@@ -86,6 +86,7 @@
 				}
 				$.get("echo.php?data="+input,
 					function(result) {
+						result = $('<div/>').text(result).html();
 						$("#response").html("Response from server:" + result);
 					}
 				);
